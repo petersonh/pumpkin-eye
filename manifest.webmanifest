@@ -1,0 +1,17 @@
+{
+  "name": "Pumpkin Eye",
+  "short_name": "PumpkinEye",
+  "description": "Pumpkin Eye",
+  "scope": "/pumpkin-eye/",
+  "start_url": "/pumpkin-eye/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "fullscreen", 
+  "icons": [
+      {
+        "src": "/pumpkin-eye/img/icon.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
+      }
+  ]
+}
